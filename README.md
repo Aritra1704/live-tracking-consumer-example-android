@@ -9,7 +9,7 @@ Order Tracking Consumer application built with the `HyperTrack SDK` for Android.
 3. [Action](https://docs.hypertrack.com/sdks/android/reference/action.html) ID of the order.
 
 ## Usage:
-![Driver example](readme-imgs/driver.gif)
+![Driver example](readme-imgs/order_tracking_consumer.gif)
 
 The order tracking consumer  application implements tracking a driver performing a delivery. Read our [introduction](https://docs.hypertrack.com/) to know more.
 
