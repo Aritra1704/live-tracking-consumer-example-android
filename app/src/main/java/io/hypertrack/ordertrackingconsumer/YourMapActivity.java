@@ -48,6 +48,7 @@ public class YourMapActivity extends AppCompatActivity {
 
     }
 
+
     private class MyMapAdapter extends HyperTrackMapAdapter {
         private Context mContext;
 
@@ -56,7 +57,8 @@ public class YourMapActivity extends AppCompatActivity {
             this.mContext = mContext;
         }
         /*
-        * Show the trailing polyline of driver*/
+        * Show the trailing polyline of driver
+        * */
         @Override
         public boolean showTrailingPolyline() {
             return true;
@@ -70,4 +72,5 @@ public class YourMapActivity extends AppCompatActivity {
             super.onMapReadyCallback(hyperTrackMapFragment, map);
         }
     }
+
 }

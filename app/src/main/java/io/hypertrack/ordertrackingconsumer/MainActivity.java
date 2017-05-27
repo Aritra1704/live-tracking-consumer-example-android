@@ -88,6 +88,12 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
+    @Override
+    protected void onStop() {
+        HyperTrack.removeActions(null);
+        super.onStop();
+    }
+
     private void initializeProgressDialog() {
         progressDialog = new ProgressDialog(this);
         progressDialog.setMessage("Fetching ");
