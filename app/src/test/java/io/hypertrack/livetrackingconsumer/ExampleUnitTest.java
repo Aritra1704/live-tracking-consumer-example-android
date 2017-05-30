@@ -1,4 +1,4 @@
-package io.hypertrack.ordertrackingconsumer;
+package io.hypertrack.livetrackingconsumer;
 
 import org.junit.Test;
 

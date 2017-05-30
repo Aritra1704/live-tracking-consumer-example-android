@@ -1,4 +1,4 @@
-package io.hypertrack.ordertrackingconsumer;
+package io.hypertrack.livetrackingconsumer;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.hypertrack.lib.HyperTrackMapFragment;

@@ -1,4 +1,4 @@
-package io.hypertrack.ordertrackingconsumer;
+package io.hypertrack.livetrackingconsumer;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

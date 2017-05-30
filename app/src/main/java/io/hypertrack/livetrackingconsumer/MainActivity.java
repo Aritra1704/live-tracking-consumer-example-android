@@ -1,4 +1,4 @@
-package io.hypertrack.ordertrackingconsumer;
+package io.hypertrack.livetrackingconsumer;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
