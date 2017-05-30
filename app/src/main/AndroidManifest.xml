@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:name="io.hypertrack.livetrackingconsumer.OrderTrackingConsumerApplication"
+        android:name="io.hypertrack.livetrackingconsumer.LiveTrackingConsumerApplication"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"

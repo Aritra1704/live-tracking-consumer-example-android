@@ -9,7 +9,7 @@ import com.hypertrack.lib.HyperTrack;
  * Created by Aman Jain on 17/05/17.
  */
 
-public class OrderTrackingConsumerApplication extends Application {
+public class LiveTrackingConsumerApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
